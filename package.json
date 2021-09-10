@@ -1,0 +1,14 @@
+{
+  "name": "cumchalice",
+  "version": "1.0.0",
+  "description": "What the fuck is this?",
+  "main": "index.js",
+  "repository": "https://github.com/Dannnington/cumchalice.git",
+  "author": "Daniel Hyders <git@bean.codes>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
